@@ -57,6 +57,14 @@
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_gold_akm_pts/wpn_fps_ass_ak_stamp_gold_rtru_akm"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_gold_akm_pts/wpn_fps_ass_ak_stamp_gold_st_akm"/>
 	
+	<!-- BLING PARTS -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_stamp_gold_bling_pts/bling_handguard_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_stamp_gold_bling_pts/bling_dust_cover_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_gold_bling_pts/wpn_fps_ass_ak_stamp_gold_dc_bling"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_gold_bling_pts/wpn_fps_ass_ak_stamp_gold_uhg_bling"/>
+	
 	<!-- WASR PARTS -->
 	
 	<!-- <df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_stamp_gold_romy_pts/wasr_main_std"/> -->

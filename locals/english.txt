@@ -58,6 +58,9 @@
 	"bm_wp_wpn_fps_ass_ak_stamp_gold_re_akm" : "AKM Receiver",
 	"bm_wp_wpn_fps_ass_ak_stamp_gold_st_akm" : "AKM Stock",
 	
+	"bm_wp_wpn_fps_ass_ak_stamp_gold_dc_bling"  : "Bling Dust Cover",
+	"bm_wp_wpn_fps_ass_ak_stamp_gold_uhg_bling" : "Bling Upper Handguard",
+	
 	"bm_wp_wpn_fps_ass_ak_stamp_gold_lhg_wasr"  : "Romanian 'Dong' Lower Handguard",
 	"bm_wp_wpn_fps_ass_ak_stamp_gold_uhg_wasr"  : "Romanian Upper Handguard",
 	
