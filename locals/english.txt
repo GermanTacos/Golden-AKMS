@@ -1,0 +1,78 @@
+{
+
+	"menu_l_global_value_ak_pack_2" : "This is an AK Pack 2 item!",
+	
+	"bm_w_ak_stamp_gold" : "Golden AKMS",
+	
+	"bm_menu_receiver"        						: "Receiver",
+	"bm_menu_receiver_plural"    					: "Receivers",
+	"bm_menu_cleaning_rod"        					: "Cleaning Rod",
+	"bm_menu_cleaning_rod_plural"    				: "Cleaning Rods",
+	"bm_menu_dust_cover"        					: "Dust Cover",
+	"bm_menu_dust_cover_plural"    					: "Dust Covers",
+	"bm_menu_sight_front"        					: "Front Sight",
+	"bm_menu_sight_front_plural"    				: "Front Sights",
+	"bm_menu_sight_rear"        					: "Rear Sight",
+	"bm_menu_sight_rear_plural"    					: "Rear Sights",
+	"bm_menu_sight_block_front"        				: "Front Sight Block",
+	"bm_menu_sight_block_front_plural"  			: "Front Sight Blocks",
+	"bm_menu_sight_block_rear"        				: "Rear Sight Block",
+	"bm_menu_sight_block_rear_plural"  				: "Rear Sight Blocks",
+	"bm_menu_fire_selector"        					: "Fire Selector",
+	"bm_menu_fire_selector_plural"    				: "Fire Selectors",
+	"bm_menu_trunnion_front"        				: "Front Trunnion",
+	"bm_menu_trunnion_front_plural"    				: "Front Trunnions",
+	"bm_menu_trunnion_rear"        					: "Rear Trunnion",
+	"bm_menu_trunnion_rear_plural"    				: "Rear Trunnions",
+	"bm_menu_gas_block"        						: "Gas Block",
+	"bm_menu_gas_block_plural"    					: "Gas Blocks",
+	"bm_menu_gas_tube"        						: "Gas Tube",
+	"bm_menu_gas_tube_plural"    					: "Gas Tubes",
+	"bm_menu_hammer"        						: "Hammer",
+	"bm_menu_hammer_plural"    						: "Hammers",
+	"bm_menu_handguard_lower"        				: "Lower Handguard",
+	"bm_menu_handguard_lower_plural"    			: "Lower Handguards",
+	"bm_menu_handguard_upper"        				: "Upper Handguard",
+	"bm_menu_handguard_upper_plural"    			: "Upper Handguards",
+	"bm_menu_handguard_retainer_lower_front"        : "Lower Front Handguard Retainer",
+	"bm_menu_handguard_retainer_lower_front_plural" : "Lower Front Handguard Retainers",
+	"bm_menu_handguard_retainer_upper_front"        : "Upper Front Handguard Retainer",
+	"bm_menu_handguard_retainer_upper_front_plural" : "Upper Front Handguard Retainers",
+	"bm_menu_handguard_retainer_upper_rear"        	: "Upper Rear Handguard Retainer",
+	"bm_menu_handguard_retainer_upper_rear_plural"  : "Upper Rear Handguard Retainers",
+	"bm_menu_magazine_release"        				: "Magazine Release",
+	"bm_menu_magazine_release_plural"    			: "Magazine Releases",
+	"bm_menu_pistol_grip"        					: "Pistol Grip",
+	"bm_menu_pistol_grip_plural"    				: "Pistol Grips",
+	"bm_menu_recoil_spring"        					: "Recoil Spring",
+	"bm_menu_recoil_spring_plural"    				: "Recoil Springs",
+	"bm_menu_trigger"        						: "Trigger",
+	"bm_menu_trigger_plural"    					: "Triggers",
+	"bm_menu_trigger_guard"        					: "Trigger Guard",
+	"bm_menu_trigger_guard_plural"    				: "Trigger Guards",
+	
+	"bm_wp_wpn_fps_ass_ak_all_lhg_akm" : "AKM Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_uhg_akm" : "AKM Upper Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_st_akm"  : "AKM Stock",
+	
+	"bm_wp_wpn_fps_ass_ak_stamp_gold_re_akm" : "AKM Receiver",
+	"bm_wp_wpn_fps_ass_ak_stamp_gold_st_akm" : "AKM Stock",
+	
+	"bm_wp_wpn_fps_ass_ak_stamp_gold_lhg_wasr"  : "Romanian 'Dong' Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_stamp_gold_uhg_wasr"  : "Romanian Upper Handguard",
+	
+	"bm_wp_wpn_fps_ass_ak_stamp_gold_m_steel_40" : "40 Round Steel RPK Magazine",
+	
+	"bm_wp_wpn_fps_ass_ak_stamp_gold_md_no"  : "Remove Muzzle Device",
+	"bm_wp_wpn_fps_ass_ak_stamp_gold_clr_no" : "Remove Cleaning Rod",
+	"bm_wp_wpn_fps_ass_ak_stamp_gold_dc_no"  : "Remove Dust Cover",
+	"bm_wp_wpn_fps_ass_ak_stamp_gold_lhg_no" : "Remove Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_stamp_gold_uhg_no" : "Remove Upper Handguard",
+	"bm_wp_wpn_fps_ass_ak_stamp_gold_st_no"  : "Remove Stock",
+	
+	"bm_w_paint_pg_akm_akm"	     : "Standard AKM Grip",
+	"bm_w_paint_pg_akm_akm_desc" : "A run-of-the mill bakelite grip. Comes as standard on the AKM.",
+	
+	"bm_wp_end" : "End"
+	
+}

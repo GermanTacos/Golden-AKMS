@@ -1,0 +1,6 @@
+<dynamic_object>
+	<diesel materials="units/pd2_dlc_grv/weapons/wpn_fps_ass_flint_pts/wpn_fps_ass_flint_b_standard" orientation_object="rp_wpn_fps_ass_flint_b_standard" />
+	<graphics>
+		<object name="g_barrel" enabled="false" />
+	</graphics>
+</dynamic_object>

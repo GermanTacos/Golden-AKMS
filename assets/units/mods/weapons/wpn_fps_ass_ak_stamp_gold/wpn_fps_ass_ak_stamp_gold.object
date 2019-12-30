@@ -1,0 +1,20 @@
+<dynamic_object>
+	<diesel orientation_object="rp_wpn_fps_ass_flint" />
+	<animations>
+		<animation_group name="reload">
+			<object name="anim_m_reload" 			enabled="true" />
+			<object name="anim_release_reload" 		enabled="true" />
+			<object name="anim_dh_reload" 			enabled="true" />
+		</animation_group>
+		<animation_group name="recoil">
+			<object name="anim_dh_recoil" 			enabled="true" />
+		</animation_group>
+		<animation_group name="reload_not_empty">
+			<object name="anim_m_reload_tactical" 	enabled="true" />
+			<object name="anim_release_reload_not_empty" 	enabled="true" />
+		</animation_group>
+		<animation_group name="thq">
+			<object name="anim_thq" 				enabled="true" />
+		</animation_group>
+	</animations>
+</dynamic_object>

@@ -1,0 +1,19 @@
+<table>
+
+	<Sounds directory="assets\sounds">
+		<sound id="ak47_fire_single" path="ak47_fire_auto.ogg" prefix="regular"/>
+		<sound id="ak47_fire_single" path="ak47_fire_sup.ogg"  prefix="suppressed_a"/>
+		<sound id="ak47_fire_single" path="ak47_fire_sup.ogg"  prefix="suppressed_b"/>
+		<sound id="ak47_fire_single" path="ak47_fire_sup.ogg"  prefix="suppressed_c"/>
+		<sound id="ak47_fire_single" path="ak47_pr_fire.ogg"   prefix="regular_b"/>
+		<sound id="wp_heffy_762_mag_out" path="wp_heffy_762_mag_out.ogg" prefix="first"/>
+		<sound id="wp_heffy_762_mag_out" path="wp_heffy_762_mag_out.ogg" prefix="third"/>
+		<sound id="wp_heffy_762_mag_in" path="wp_heffy_762_mag_in.ogg" prefix="first"/>
+		<sound id="wp_heffy_762_mag_in" path="wp_heffy_762_mag_in.ogg" prefix="third"/>
+		<sound id="wp_heffy_762_cock_pull" path="wp_heffy_762_cock_pull.ogg" prefix="first"/>
+		<sound id="wp_heffy_762_cock_pull" path="wp_heffy_762_cock_pull.ogg" prefix="third"/>
+		<sound id="wp_heffy_762_cock_release" path="wp_heffy_762_cock_release.ogg" prefix="first"/>
+		<sound id="wp_heffy_762_cock_release" path="wp_heffy_762_cock_release.ogg" prefix="third"/>
+	</Sounds>
+
+</table>
