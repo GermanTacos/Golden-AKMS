@@ -3,8 +3,9 @@
 	<Localization directory="locals" default="english.txt"/>
 	
 	<GlobalValue id="ak_pack_2" color="Color(1, 0.522, 0.106)"/>
+	<GlobalValue id="cpone" 	color="Color(0.2, 0.8, 0.69)"/>
 	
-	<!-- <AssetUpdates id="26227" version="2.0-pre" provider="modworkshop"/> -->
+	<AssetUpdates id="26297" version="2.0-pre" provider="modworkshop"/>
 	
 	<XML path="add.xml"/>
 	<XML path="sound.xml"/>

@@ -2,11 +2,11 @@
 
 	<Weapon unlock_level="0">
 		<weapon id="ak_stamp_gold" based_on="flint" damage_near="25000" damage_far="40000" CLIP_AMMO_MAX="30" NR_CLIPS_MAX="4" can_shoot_through_shield="false" can_shoot_through_enemy="false" can_shoot_through_wall="false" tactical_reload="1" texture_bundle_folder="mods" global_value="ak_pack_2">
-			<stats damage="98" spread="16" spread_moving="15" recoil="13" concealment="15" suppression="8"/>
+			<stats damage="99" spread="16" spread_moving="15" recoil="11" concealment="7" suppression="8"/>
 			<fire_mode_data fire_rate="0.1"/>
 			<AMMO_PICKUP>
-					<value_node value="1.5"/>
-					<value_node value="4.0"/>
+					<value_node value="2.5"/>
+					<value_node value="5.0"/>
 			</AMMO_PICKUP>
 			<timers reload_not_empty="2.3" reload_empty="3.4" unequip="0.5" equip="0.7"/>
 			<sounds fire="ak47_fire_single" fire_single="ak47_fire_single" fire_auto="ak47_fire_single" use_fix="true"> 

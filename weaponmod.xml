@@ -89,7 +89,7 @@
 	
 	<!-- BLING -->
 	
-	<WeaponMod id="wpn_fps_ass_ak_stamp_gold_dc_bling"    	based_on="wpn_fps_ass_flint_body_upperreceiver" type="dust_cover"					 	unit="units/mods/weapons/wpn_fps_ass_ak_stamp_gold_bling_pts/wpn_fps_ass_ak_stamp_gold_dc_bling"		texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
+	<WeaponMod id="wpn_fps_ass_ak_stamp_gold_dc_bling"    	based_on="wpn_fps_ass_flint_body_upperreceiver" type="dust_cover"					 	unit="units/mods/weapons/wpn_fps_ass_ak_stamp_gold_bling_pts/wpn_fps_ass_ak_stamp_gold_dc_bling"		texture_bundle_folder="mods" drop="false" global_value="cpone"	   is_a_unlockable="true">
 		<pcs/>
 	</WeaponMod>
 	

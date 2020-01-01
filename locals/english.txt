@@ -1,6 +1,7 @@
 {
 
 	"menu_l_global_value_ak_pack_2" : "This is an AK Pack 2 item!",
+	"menu_l_global_value_cpone"		: "Special thanks to Cpone!",
 	
 	"bm_w_ak_stamp_gold" : "Golden AKMS",
 	
