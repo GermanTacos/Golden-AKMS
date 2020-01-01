@@ -100,58 +100,21 @@
 	
 	<!-- ICONS -->
 	
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/weapons/ak_stamp_gold"/> -->
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/weapons/ak_stamp_gold"/>
 	
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_m_steel_10"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_m_steel_40"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_m_beer_30"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_m_bake_30"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_m_bake_40"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_m_ak103_30"/> -->
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_m_steel_40"/>
 	
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_pg_akms_wood"/> -->
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_re_akm"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_st_akm"/>
 	
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_md_ak"/> -->
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_dc_bling"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_uhg_bling"/>
 	
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_ro_akmsb"/> -->
-	
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_md_akmsl"/> -->
-	
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_re_akm"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_st_uf_akm"/> -->
-
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_ba_ak103"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_bo_ak103"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_clr_ak103"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_dc_ak103"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_fsb_ak103"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_gb_ak103"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_lhg_ak103"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_uhg_ak103"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_pg_ak103"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_re_ak103"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_st_uf_ak103"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_tr_ak103"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_md_ak103"/> -->
-	
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_ba_ak104"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_gb_ak104"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_md_ak104"/> -->
-	
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_re_wasr"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_lhg_wasr"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_uhg_wasr"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_lhg_shark"/> -->
-	
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_uhg_akms"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_akms"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_st_akms"/> -->
-	
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_clr_no"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_dc_no"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_lhg_no"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_uhg_no"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_md_no"/> -->
-	<!-- <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_st_no"/> -->
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_clr_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_dc_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_lhg_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_uhg_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_md_no"/> 
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_gold_st_no"/>
 
 </AddFiles>
