@@ -74,7 +74,7 @@
 		<stats concealment="0" damage="0" spread="0" recoil="0"/>
 		<override>
 			<wpn_fps_ass_ak_stamp_gold_rtru_akms unit="units/mods/weapons/wpn_fps_ass_ak_stamp_gold_akm_pts/wpn_fps_ass_ak_stamp_gold_rtru_akm"/>
-			<wpn_fps_ass_ak_stamp_gold_st_akms   unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_stamp_gold_st_uf_akms   unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 		</override>
 		<pcs/>
 	</WeaponMod>
