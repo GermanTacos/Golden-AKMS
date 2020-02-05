@@ -9,9 +9,9 @@
 					<value_node value="5.0"/>
 			</AMMO_PICKUP>
 			<timers reload_not_empty="2.3" reload_empty="3.4" unequip="0.5" equip="0.7"/>
-			<sounds fire="ak47_fire_single" fire_single="ak47_fire_single" fire_auto="ak47_fire_single" use_fix="true"> 
-				<reload wp_flint_mag_out="wp_heffy_762_mag_out" wp_flint_mag_in="wp_heffy_762_mag_in" wp_flint_cock_pull="wp_heffy_762_cock_pull" wp_flint_cock_release="wp_heffy_762_cock_release"/>
-			</sounds>
+			<!-- <sounds fire="ak47_fire_single" fire_single="ak47_fire_single" fire_auto="ak47_fire_single" use_fix="true">  -->
+				<!-- <reload wp_flint_mag_out="wp_heffy_762_mag_out" wp_flint_mag_in="wp_heffy_762_mag_in" wp_flint_cock_pull="wp_heffy_762_cock_pull" wp_flint_cock_release="wp_heffy_762_cock_release"/> -->
+			<!-- </sounds> -->
 			<animations reload_name_id="flint" equip_id="equip_flint" recoil_steelsight="true"/>
 		</weapon>
 
