@@ -5,8 +5,8 @@
 			<stats damage="99" spread="16" spread_moving="15" recoil="11" concealment="7" suppression="8"/>
 			<fire_mode_data fire_rate="0.1"/>
 			<AMMO_PICKUP>
-					<value_node value="2.5"/>
-					<value_node value="5.0"/>
+					<value_node value="1.5"/>
+					<value_node value="4.0"/>
 			</AMMO_PICKUP>
 			<timers reload_not_empty="2.3" reload_empty="3.4" unequip="0.5" equip="0.7"/>
 			<!-- <sounds fire="ak47_fire_single" fire_single="ak47_fire_single" fire_auto="ak47_fire_single" use_fix="true">  -->
